@@ -7,25 +7,56 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="main31" />
-    <orderEntry type="module" module-name="main22" />
-    <orderEntry type="module" module-name="main65" />
-    <orderEntry type="module" module-name="test29" />
-    <orderEntry type="module" module-name="test28" />
-    <orderEntry type="module" module-name="test65" />
-    <orderEntry type="module" module-name="main86" />
-    <orderEntry type="module" module-name="main79" />
-    <orderEntry type="module" module-name="test43" />
-    <orderEntry type="module" module-name="main63" />
+    <orderEntry type="library" name="sql-jars" level="project" />
+    <orderEntry type="library" name="target72" level="project" />
+    <orderEntry type="library" name="target138" level="project" />
+    <orderEntry type="library" name="streaming" level="project" />
+    <orderEntry type="library" name="target127" level="project" />
+    <orderEntry type="library" name="target25" level="project" />
+    <orderEntry type="library" name="target55" level="project" />
+    <orderEntry type="library" name="target75" level="project" />
+    <orderEntry type="library" name="target112" level="project" />
+    <orderEntry type="library" name="target21" level="project" />
+    <orderEntry type="library" name="target74" level="project" />
+    <orderEntry type="library" name="target3" level="project" />
+    <orderEntry type="library" name="target36" level="project" />
+    <orderEntry type="library" name="target41" level="project" />
+    <orderEntry type="library" name="target13" level="project" />
+    <orderEntry type="library" name="target37" level="project" />
+    <orderEntry type="library" name="target90" level="project" />
+    <orderEntry type="library" name="target120" level="project" />
+    <orderEntry type="library" name="target134" level="project" />
+    <orderEntry type="library" name="target76" level="project" />
+    <orderEntry type="library" name="target104" level="project" />
+    <orderEntry type="library" name="target117" level="project" />
+    <orderEntry type="library" name="target9" level="project" />
+    <orderEntry type="library" name="target31" level="project" />
+    <orderEntry type="library" name="target4" level="project" />
+    <orderEntry type="library" name="target57" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="target80" level="project" />
+    <orderEntry type="library" name="target111" level="project" />
+    <orderEntry type="library" name="flink-shaded-hadoop-2-uber-2.4.1-7.0" level="project" />
+    <orderEntry type="library" name="target16" level="project" />
     <orderEntry type="module" module-name="test51" />
-    <orderEntry type="module" module-name="test38" />
+    <orderEntry type="module" module-name="test65" />
     <orderEntry type="module" module-name="test88" />
     <orderEntry type="module" module-name="test12" />
-    <orderEntry type="module" module-name="test54" />
-    <orderEntry type="module" module-name="main12" />
     <orderEntry type="module" module-name="main77" />
-    <orderEntry type="module" module-name="main2" />
-    <orderEntry type="module" module-name="main46" />
+    <orderEntry type="module" module-name="main65" />
     <orderEntry type="module" module-name="test53" />
+    <orderEntry type="module" module-name="main86" />
+    <orderEntry type="module" module-name="test29" />
+    <orderEntry type="module" module-name="main22" />
+    <orderEntry type="module" module-name="main46" />
+    <orderEntry type="module" module-name="test43" />
+    <orderEntry type="module" module-name="main2" />
+    <orderEntry type="module" module-name="main31" />
+    <orderEntry type="module" module-name="test54" />
+    <orderEntry type="module" module-name="test28" />
+    <orderEntry type="module" module-name="test38" />
+    <orderEntry type="module" module-name="main63" />
+    <orderEntry type="module" module-name="main12" />
+    <orderEntry type="module" module-name="main79" />
   </component>
 </module>

@@ -7,14 +7,32 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="main100" />
+    <orderEntry type="library" name="target7" level="project" />
+    <orderEntry type="library" name="target103" level="project" />
+    <orderEntry type="library" name="target107" level="project" />
+    <orderEntry type="library" name="target71" level="project" />
+    <orderEntry type="library" name="target127" level="project" />
+    <orderEntry type="library" name="target120" level="project" />
+    <orderEntry type="library" name="target134" level="project" />
+    <orderEntry type="library" name="target33" level="project" />
+    <orderEntry type="library" name="target117" level="project" />
+    <orderEntry type="library" name="target31" level="project" />
+    <orderEntry type="library" name="target55" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="target112" level="project" />
+    <orderEntry type="library" name="target21" level="project" />
+    <orderEntry type="library" name="target80" level="project" />
+    <orderEntry type="library" name="target23" level="project" />
+    <orderEntry type="library" name="target15" level="project" />
+    <orderEntry type="library" name="target110" level="project" />
+    <orderEntry type="module" module-name="main115" />
+    <orderEntry type="module" module-name="test46" />
     <orderEntry type="module" module-name="test38" />
     <orderEntry type="module" module-name="main12" />
-    <orderEntry type="module" module-name="test46" />
     <orderEntry type="module" module-name="test47" />
-    <orderEntry type="module" module-name="main109" />
-    <orderEntry type="module" module-name="main114" />
     <orderEntry type="module" module-name="test53" />
     <orderEntry type="module" module-name="main86" />
+    <orderEntry type="module" module-name="main101" />
+    <orderEntry type="module" module-name="main110" />
   </component>
 </module>

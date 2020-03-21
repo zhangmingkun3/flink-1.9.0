@@ -7,31 +7,80 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="main47" />
-    <orderEntry type="module" module-name="test46" />
-    <orderEntry type="module" module-name="test54" />
-    <orderEntry type="module" module-name="test79" />
+    <orderEntry type="library" name="target7" level="project" />
+    <orderEntry type="library" name="target103" level="project" />
+    <orderEntry type="library" name="target107" level="project" />
+    <orderEntry type="library" name="target59" level="project" />
+    <orderEntry type="library" name="target55" level="project" />
+    <orderEntry type="library" name="target21" level="project" />
+    <orderEntry type="library" name="target3" level="project" />
+    <orderEntry type="library" name="target82" level="project" />
+    <orderEntry type="library" name="target54" level="project" />
+    <orderEntry type="library" name="target13" level="project" />
+    <orderEntry type="library" name="target115" level="project" />
+    <orderEntry type="library" name="target34" level="project" />
+    <orderEntry type="library" name="target60" level="project" />
+    <orderEntry type="library" name="target33" level="project" />
+    <orderEntry type="library" name="target31" level="project" />
+    <orderEntry type="library" name="target4" level="project" />
+    <orderEntry type="library" name="target30" level="project" />
+    <orderEntry type="library" name="target57" level="project" />
+    <orderEntry type="library" name="target85" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="target111" level="project" />
+    <orderEntry type="library" name="sql-jars" level="project" />
+    <orderEntry type="library" name="target49" level="project" />
+    <orderEntry type="library" name="target71" level="project" />
+    <orderEntry type="library" name="target72" level="project" />
+    <orderEntry type="library" name="streaming" level="project" />
+    <orderEntry type="library" name="target127" level="project" />
+    <orderEntry type="library" name="target126" level="project" />
+    <orderEntry type="library" name="target51" level="project" />
+    <orderEntry type="library" name="target65" level="project" />
+    <orderEntry type="library" name="target12" level="project" />
+    <orderEntry type="library" name="target75" level="project" />
+    <orderEntry type="library" name="target112" level="project" />
+    <orderEntry type="library" name="target23" level="project" />
+    <orderEntry type="library" name="target74" level="project" />
+    <orderEntry type="library" name="target15" level="project" />
+    <orderEntry type="library" name="target86" level="project" />
+    <orderEntry type="library" name="target36" level="project" />
+    <orderEntry type="library" name="target41" level="project" />
+    <orderEntry type="library" name="target37" level="project" />
+    <orderEntry type="library" name="target90" level="project" />
+    <orderEntry type="library" name="target81" level="project" />
+    <orderEntry type="library" name="target40" level="project" />
+    <orderEntry type="library" name="target120" level="project" />
+    <orderEntry type="library" name="target134" level="project" />
+    <orderEntry type="library" name="target117" level="project" />
+    <orderEntry type="library" name="target9" level="project" />
+    <orderEntry type="library" name="target110" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="module" module-name="main115" />
     <orderEntry type="module" module-name="main77" />
-    <orderEntry type="module" module-name="main108" />
-    <orderEntry type="module" module-name="test13" />
-    <orderEntry type="module" module-name="main103" />
-    <orderEntry type="module" module-name="main114" />
-    <orderEntry type="module" module-name="main100" />
-    <orderEntry type="module" module-name="main10" />
-    <orderEntry type="module" module-name="test29" />
-    <orderEntry type="module" module-name="main1" />
-    <orderEntry type="module" module-name="main109" />
-    <orderEntry type="module" module-name="main55" />
-    <orderEntry type="module" module-name="main79" />
-    <orderEntry type="module" module-name="test55" />
-    <orderEntry type="module" module-name="main12" />
-    <orderEntry type="module" module-name="main88" />
-    <orderEntry type="module" module-name="main" />
-    <orderEntry type="module" module-name="test47" />
-    <orderEntry type="module" module-name="main46" />
-    <orderEntry type="module" module-name="test53" />
-    <orderEntry type="module" module-name="test30" />
-    <orderEntry type="module" module-name="test71" />
     <orderEntry type="module" module-name="main29" />
+    <orderEntry type="module" module-name="main12" />
+    <orderEntry type="module" module-name="main1" />
+    <orderEntry type="module" module-name="main10" />
+    <orderEntry type="module" module-name="test55" />
+    <orderEntry type="module" module-name="test13" />
+    <orderEntry type="module" module-name="main109" />
+    <orderEntry type="module" module-name="test53" />
+    <orderEntry type="module" module-name="main55" />
+    <orderEntry type="module" module-name="test29" />
+    <orderEntry type="module" module-name="test30" />
+    <orderEntry type="module" module-name="main46" />
+    <orderEntry type="module" module-name="test54" />
+    <orderEntry type="module" module-name="main" />
+    <orderEntry type="module" module-name="test46" />
+    <orderEntry type="module" module-name="main88" />
+    <orderEntry type="module" module-name="main104" />
+    <orderEntry type="module" module-name="test71" />
+    <orderEntry type="module" module-name="main47" />
+    <orderEntry type="module" module-name="test47" />
+    <orderEntry type="module" module-name="main101" />
+    <orderEntry type="module" module-name="test79" />
+    <orderEntry type="module" module-name="main79" />
+    <orderEntry type="module" module-name="main110" />
   </component>
 </module>

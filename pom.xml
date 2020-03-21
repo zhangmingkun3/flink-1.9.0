@@ -542,7 +542,7 @@ under the License.
 			<dependency>
 				<groupId>com.typesafe.akka</groupId>
 				<artifactId>akka-camel_${scala.binary.version}</artifactId>
-				<version>${akka.version}</version>
+				<version>2.4.20</version>
 			</dependency>
 
 			<dependency>
@@ -765,7 +765,7 @@ under the License.
 						<plugin>
 							<groupId>org.apache.maven.plugins</groupId>
 							<artifactId>maven-shade-plugin</artifactId>
-							<version>3.1.1</version>
+							<version>3.0.0</version>
 						</plugin>
 						<plugin>
 							<groupId>com.github.siom79.japicmp</groupId>
@@ -774,17 +774,17 @@ under the License.
 								<dependency>
 									<groupId>javax.xml.bind</groupId>
 									<artifactId>jaxb-api</artifactId>
-									<version>2.2.12</version>
+									<version>2.2.7</version>
 								</dependency>
 								<dependency>
 									<groupId>com.sun.xml.bind</groupId>
 									<artifactId>jaxb-impl</artifactId>
-									<version>2.2.11</version>
+									<version>2.2.7</version>
 								</dependency>
 								<dependency>
 									<groupId>com.sun.xml.bind</groupId>
 									<artifactId>jaxb-core</artifactId>
-									<version>2.2.11</version>
+									<version>2.2.7</version>
 								</dependency>
 								<dependency>
 									<groupId>javax.activation</groupId>
@@ -1682,62 +1682,7 @@ under the License.
 					<artifactId>lifecycle-mapping</artifactId>
 					<version>1.0.0</version>
 					<configuration>
-						<lifecycleMappingMetadata>
-							<pluginExecutions>
-								<pluginExecution>
-									<pluginExecutionFilter>
-										<groupId>pl.project13.maven</groupId>
-										<artifactId>git-commit-id-plugin</artifactId>
-										<versionRange>[2.1.5,)</versionRange>
-										<goals>
-											<goal>revision</goal>
-										</goals>
-									</pluginExecutionFilter>
-									<action>
-										<ignore/>
-									</action>
-								</pluginExecution>
-								<pluginExecution>
-									<pluginExecutionFilter>
-										<groupId>org.apache.maven.plugins</groupId>
-										<artifactId>maven-checkstyle-plugin</artifactId>
-										<versionRange>[2.12.1,)</versionRange>
-										<goals>
-											<goal>check</goal>
-										</goals>
-									</pluginExecutionFilter>
-									<action>
-										<ignore />
-									</action>
-								</pluginExecution>
-								<pluginExecution>
-									<pluginExecutionFilter>
-										<groupId>org.apache.maven.plugins</groupId>
-										<artifactId>maven-enforcer-plugin</artifactId>
-										<versionRange>[1.0.0,)</versionRange>
-										<goals>
-											<goal>enforce</goal>
-										</goals>
-									</pluginExecutionFilter>
-									<action>
-										<ignore />
-									</action>
-								</pluginExecution>
-								<pluginExecution>
-									<pluginExecutionFilter>
-										<groupId>org.apache.maven.plugins</groupId>
-										<artifactId>maven-remote-resources-plugin</artifactId>
-										<versionRange>[0.0.0,)</versionRange>
-										<goals>
-											<goal>process</goal>
-										</goals>
-									</pluginExecutionFilter>
-									<action>
-										<ignore />
-									</action>
-								</pluginExecution>
-							</pluginExecutions>
-						</lifecycleMappingMetadata>
+
 					</configuration>
 				</plugin>
 

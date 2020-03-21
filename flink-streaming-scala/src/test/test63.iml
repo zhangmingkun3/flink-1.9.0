@@ -8,9 +8,22 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="target92" level="project" />
+    <orderEntry type="library" name="target127" level="project" />
+    <orderEntry type="library" name="target120" level="project" />
+    <orderEntry type="library" name="target134" level="project" />
+    <orderEntry type="library" name="target117" level="project" />
+    <orderEntry type="library" name="target93" level="project" />
+    <orderEntry type="library" name="target31" level="project" />
+    <orderEntry type="library" name="target55" level="project" />
+    <orderEntry type="library" name="target67" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="target112" level="project" />
+    <orderEntry type="library" name="target21" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
     <orderEntry type="module" module-name="main12" />
     <orderEntry type="module" module-name="test18" />
-    <orderEntry type="module" module-name="main101" />
+    <orderEntry type="module" module-name="main102" />
     <orderEntry type="module" module-name="test53" />
   </component>
 </module>

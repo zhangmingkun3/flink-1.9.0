@@ -8,20 +8,56 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="target72" level="project" />
+    <orderEntry type="library" name="target127" level="project" />
+    <orderEntry type="library" name="target68" level="project" />
+    <orderEntry type="library" name="target28" level="project" />
+    <orderEntry type="library" name="target58" level="project" />
+    <orderEntry type="library" name="target65" level="project" />
+    <orderEntry type="library" name="target12" level="project" />
+    <orderEntry type="library" name="target55" level="project" />
+    <orderEntry type="library" name="target112" level="project" />
+    <orderEntry type="library" name="target21" level="project" />
+    <orderEntry type="library" name="target122" level="project" />
+    <orderEntry type="library" name="target3" level="project" />
+    <orderEntry type="library" name="target102" level="project" />
+    <orderEntry type="library" name="target6" level="project" />
+    <orderEntry type="library" name="target86" level="project" />
+    <orderEntry type="library" name="target87" level="project" />
+    <orderEntry type="library" name="target54" level="project" />
+    <orderEntry type="library" name="target37" level="project" />
+    <orderEntry type="library" name="target90" level="project" />
+    <orderEntry type="library" name="opt" level="project" />
+    <orderEntry type="library" name="target34" level="project" />
+    <orderEntry type="library" name="target" level="project" />
+    <orderEntry type="library" name="target120" level="project" />
+    <orderEntry type="library" name="target134" level="project" />
+    <orderEntry type="library" name="target117" level="project" />
+    <orderEntry type="library" name="target31" level="project" />
+    <orderEntry type="library" name="target30" level="project" />
+    <orderEntry type="library" name="target57" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="target52" level="project" />
+    <orderEntry type="library" name="target80" level="project" />
+    <orderEntry type="library" name="target73" level="project" />
+    <orderEntry type="library" name="target79" level="project" />
+    <orderEntry type="library" name="flink-shaded-hadoop-2-uber-2.4.1-7.0" level="project" />
+    <orderEntry type="library" name="target39" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
     <orderEntry type="module" module-name="test89" />
+    <orderEntry type="module" module-name="main122" />
+    <orderEntry type="module" module-name="test53" />
     <orderEntry type="module" module-name="main57" />
-    <orderEntry type="module" module-name="test7" />
-    <orderEntry type="module" module-name="main98" />
-    <orderEntry type="module" module-name="main1" />
     <orderEntry type="module" module-name="main55" />
     <orderEntry type="module" module-name="main86" />
-    <orderEntry type="module" module-name="main121" />
-    <orderEntry type="module" module-name="main97" />
-    <orderEntry type="module" module-name="test38" />
-    <orderEntry type="module" module-name="main51" />
-    <orderEntry type="module" module-name="test55" />
-    <orderEntry type="module" module-name="main12" />
     <orderEntry type="module" module-name="main" />
-    <orderEntry type="module" module-name="test53" />
+    <orderEntry type="module" module-name="test38" />
+    <orderEntry type="module" module-name="main98" />
+    <orderEntry type="module" module-name="main12" />
+    <orderEntry type="module" module-name="test7" />
+    <orderEntry type="module" module-name="main1" />
+    <orderEntry type="module" module-name="test55" />
+    <orderEntry type="module" module-name="main51" />
+    <orderEntry type="module" module-name="main99" />
   </component>
 </module>

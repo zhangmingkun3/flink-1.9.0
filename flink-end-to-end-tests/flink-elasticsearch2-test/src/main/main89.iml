@@ -7,18 +7,38 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="main93" />
-    <orderEntry type="module" module-name="main10" />
-    <orderEntry type="module" module-name="test29" />
+    <orderEntry type="library" name="target36" level="project" />
+    <orderEntry type="library" name="sql-jars" level="project" />
+    <orderEntry type="library" name="target54" level="project" />
+    <orderEntry type="library" name="target34" level="project" />
+    <orderEntry type="library" name="target81" level="project" />
+    <orderEntry type="library" name="target127" level="project" />
+    <orderEntry type="library" name="target40" level="project" />
+    <orderEntry type="library" name="target120" level="project" />
+    <orderEntry type="library" name="target126" level="project" />
+    <orderEntry type="library" name="target134" level="project" />
+    <orderEntry type="library" name="target51" level="project" />
+    <orderEntry type="library" name="target117" level="project" />
+    <orderEntry type="library" name="target31" level="project" />
+    <orderEntry type="library" name="target65" level="project" />
+    <orderEntry type="library" name="target55" level="project" />
+    <orderEntry type="library" name="target85" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="target112" level="project" />
+    <orderEntry type="library" name="target21" level="project" />
+    <orderEntry type="library" name="target80" level="project" />
+    <orderEntry type="module" module-name="test69" />
+    <orderEntry type="module" module-name="test53" />
+    <orderEntry type="module" module-name="test44" />
+    <orderEntry type="module" module-name="main94" />
+    <orderEntry type="module" module-name="test42" />
     <orderEntry type="module" module-name="main55" />
     <orderEntry type="module" module-name="main86" />
-    <orderEntry type="module" module-name="main79" />
-    <orderEntry type="module" module-name="test69" />
+    <orderEntry type="module" module-name="test29" />
     <orderEntry type="module" module-name="test38" />
     <orderEntry type="module" module-name="main12" />
-    <orderEntry type="module" module-name="test42" />
-    <orderEntry type="module" module-name="test44" />
-    <orderEntry type="module" module-name="test53" />
     <orderEntry type="module" module-name="test71" />
+    <orderEntry type="module" module-name="main10" />
+    <orderEntry type="module" module-name="main79" />
   </component>
 </module>

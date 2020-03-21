@@ -7,10 +7,23 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="target84" level="project" />
+    <orderEntry type="library" name="opt" level="project" />
+    <orderEntry type="library" name="target127" level="project" />
+    <orderEntry type="library" name="target120" level="project" />
+    <orderEntry type="library" name="target134" level="project" />
+    <orderEntry type="library" name="target117" level="project" />
+    <orderEntry type="library" name="target31" level="project" />
+    <orderEntry type="library" name="target12" level="project" />
+    <orderEntry type="library" name="target55" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="target112" level="project" />
+    <orderEntry type="library" name="target98" level="project" />
+    <orderEntry type="library" name="target86" level="project" />
+    <orderEntry type="module" module-name="main" />
+    <orderEntry type="module" module-name="main73" />
+    <orderEntry type="module" module-name="main1" />
     <orderEntry type="module" module-name="test55" />
     <orderEntry type="module" module-name="test15" />
-    <orderEntry type="module" module-name="main" />
-    <orderEntry type="module" module-name="main1" />
-    <orderEntry type="module" module-name="main73" />
   </component>
 </module>

@@ -7,13 +7,28 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="target34" level="project" />
+    <orderEntry type="library" name="target127" level="project" />
+    <orderEntry type="library" name="target120" level="project" />
+    <orderEntry type="library" name="target134" level="project" />
+    <orderEntry type="library" name="target117" level="project" />
+    <orderEntry type="library" name="target31" level="project" />
+    <orderEntry type="library" name="target12" level="project" />
+    <orderEntry type="library" name="target55" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="target112" level="project" />
+    <orderEntry type="library" name="target21" level="project" />
+    <orderEntry type="library" name="target80" level="project" />
+    <orderEntry type="library" name="flink-shaded-hadoop-2-uber-2.4.1-7.0" level="project" />
+    <orderEntry type="library" name="target6" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
     <orderEntry type="module" module-name="test9" />
-    <orderEntry type="module" module-name="main57" />
-    <orderEntry type="module" module-name="test7" />
     <orderEntry type="module" module-name="main12" />
+    <orderEntry type="module" module-name="test7" />
     <orderEntry type="module" module-name="main1" />
-    <orderEntry type="module" module-name="main55" />
     <orderEntry type="module" module-name="test53" />
+    <orderEntry type="module" module-name="main57" />
+    <orderEntry type="module" module-name="main55" />
     <orderEntry type="module" module-name="main86" />
   </component>
 </module>

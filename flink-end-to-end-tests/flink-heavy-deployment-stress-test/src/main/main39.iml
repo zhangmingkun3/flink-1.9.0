@@ -7,27 +7,53 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="test68" />
-    <orderEntry type="module" module-name="main56" />
-    <orderEntry type="module" module-name="test29" />
-    <orderEntry type="module" module-name="main112" />
+    <orderEntry type="library" name="target72" level="project" />
+    <orderEntry type="library" name="target127" level="project" />
+    <orderEntry type="library" name="target62" level="project" />
+    <orderEntry type="library" name="target51" level="project" />
+    <orderEntry type="library" name="target65" level="project" />
+    <orderEntry type="library" name="target55" level="project" />
+    <orderEntry type="library" name="target56" level="project" />
+    <orderEntry type="library" name="target112" level="project" />
+    <orderEntry type="library" name="target21" level="project" />
+    <orderEntry type="library" name="target87" level="project" />
+    <orderEntry type="library" name="target36" level="project" />
+    <orderEntry type="library" name="target54" level="project" />
+    <orderEntry type="library" name="target37" level="project" />
+    <orderEntry type="library" name="target90" level="project" />
+    <orderEntry type="library" name="target32" level="project" />
+    <orderEntry type="library" name="target34" level="project" />
+    <orderEntry type="library" name="target120" level="project" />
+    <orderEntry type="library" name="target134" level="project" />
+    <orderEntry type="library" name="target43" level="project" />
+    <orderEntry type="library" name="target139" level="project" />
+    <orderEntry type="library" name="target117" level="project" />
+    <orderEntry type="library" name="target31" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="target80" level="project" />
+    <orderEntry type="library" name="target22" level="project" />
+    <orderEntry type="library" name="target79" level="project" />
+    <orderEntry type="module" module-name="main96" />
     <orderEntry type="module" module-name="main58" />
-    <orderEntry type="module" module-name="main62" />
-    <orderEntry type="module" module-name="main55" />
     <orderEntry type="module" module-name="test5" />
-    <orderEntry type="module" module-name="main81" />
-    <orderEntry type="module" module-name="main85" />
-    <orderEntry type="module" module-name="main86" />
-    <orderEntry type="module" module-name="main102" />
-    <orderEntry type="module" module-name="main79" />
-    <orderEntry type="module" module-name="test38" />
-    <orderEntry type="module" module-name="main61" />
-    <orderEntry type="module" module-name="main12" />
-    <orderEntry type="module" module-name="main118" />
     <orderEntry type="module" module-name="main11" />
-    <orderEntry type="module" module-name="main95" />
-    <orderEntry type="module" module-name="main32" />
-    <orderEntry type="module" module-name="main89" />
     <orderEntry type="module" module-name="test53" />
+    <orderEntry type="module" module-name="main85" />
+    <orderEntry type="module" module-name="main56" />
+    <orderEntry type="module" module-name="main62" />
+    <orderEntry type="module" module-name="main89" />
+    <orderEntry type="module" module-name="main32" />
+    <orderEntry type="module" module-name="main55" />
+    <orderEntry type="module" module-name="main86" />
+    <orderEntry type="module" module-name="test29" />
+    <orderEntry type="module" module-name="main113" />
+    <orderEntry type="module" module-name="test68" />
+    <orderEntry type="module" module-name="main61" />
+    <orderEntry type="module" module-name="main103" />
+    <orderEntry type="module" module-name="test38" />
+    <orderEntry type="module" module-name="main119" />
+    <orderEntry type="module" module-name="main81" />
+    <orderEntry type="module" module-name="main12" />
+    <orderEntry type="module" module-name="main79" />
   </component>
 </module>

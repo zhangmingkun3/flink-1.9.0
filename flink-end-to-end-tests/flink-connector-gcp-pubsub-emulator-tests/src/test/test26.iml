@@ -7,13 +7,34 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="target36" level="project" />
+    <orderEntry type="library" name="target54" level="project" />
+    <orderEntry type="library" name="opt" level="project" />
+    <orderEntry type="library" name="target127" level="project" />
+    <orderEntry type="library" name="target53" level="project" />
+    <orderEntry type="library" name="target120" level="project" />
+    <orderEntry type="library" name="target134" level="project" />
+    <orderEntry type="library" name="target117" level="project" />
+    <orderEntry type="library" name="target28" level="project" />
+    <orderEntry type="library" name="target31" level="project" />
+    <orderEntry type="library" name="target55" level="project" />
+    <orderEntry type="library" name="target30" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="target112" level="project" />
+    <orderEntry type="library" name="target21" level="project" />
+    <orderEntry type="library" name="target52" level="project" />
+    <orderEntry type="library" name="target80" level="project" />
+    <orderEntry type="library" name="target102" level="project" />
+    <orderEntry type="library" name="target39" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="target87" level="project" />
     <orderEntry type="module" module-name="test38" />
     <orderEntry type="module" module-name="main12" />
-    <orderEntry type="module" module-name="test29" />
-    <orderEntry type="module" module-name="test39" />
     <orderEntry type="module" module-name="test53" />
+    <orderEntry type="module" module-name="test39" />
     <orderEntry type="module" module-name="main86" />
-    <orderEntry type="module" module-name="main124" />
+    <orderEntry type="module" module-name="test29" />
     <orderEntry type="module" module-name="main79" />
+    <orderEntry type="module" module-name="main125" />
   </component>
 </module>
